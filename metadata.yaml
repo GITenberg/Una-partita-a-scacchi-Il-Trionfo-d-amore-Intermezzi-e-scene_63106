@@ -1,5 +1,8 @@
 _repo: Una-partita-a-scacchi-Il-Trionfo-d-amore-Intermezzi-e-scene_63106
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63106-h/images/cover.jpg
 creator:
   author:
     agent_name: Giacosa, Giuseppe
@@ -12,6 +15,8 @@ creator:
     - https://it.wikipedia.org/wiki/Giuseppe_Giacosa
     - https://en.wikipedia.org/wiki/Giuseppe_Giacosa
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63106#Una-partita-a-scacchi-Il-Trionfo-d-amore-Intermezzi-e-scene
 gutenberg_issued: '2020-09-03'
 gutenberg_type: Text
 identifiers:
